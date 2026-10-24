@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Production output
+dist/
+.output/
+.vinxi/
+
+# Environment files
+.env
+.env.local
+*.local
+
+# Editor directories and files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
